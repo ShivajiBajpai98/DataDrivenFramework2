@@ -1,0 +1,26 @@
+INFO    2022-05-19 09:36:42,772 [main] base.BaseTest  - Config properties loaded !!!
+INFO    2022-05-19 09:36:42,780 [main] base.BaseTest  - OR properties loaded !!!
+INFO    2022-05-19 09:36:47,415 [main] base.BaseTest  - Launching Chrome !!!
+INFO    2022-05-19 09:36:49,652 [main] base.BaseTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-05-19 09:36:53,133 [main] base.BaseTest  - Clicking on an Element : bmlBtn_XPATH
+INFO    2022-05-19 09:36:53,414 [main] base.BaseTest  - Finding an Element : addCustomerBtn_XPATH
+INFO    2022-05-19 09:36:54,038 [main] base.BaseTest  - Clicking on an Element : addCustomerBtn_XPATH
+INFO    2022-05-19 09:36:54,257 [main] base.BaseTest  - typing in an Element : firstname_XPATH entered the value as : Shivaji
+INFO    2022-05-19 09:36:54,339 [main] base.BaseTest  - typing in an Element : lastname_XPATH entered the value as : Bajpai
+INFO    2022-05-19 09:36:54,432 [main] base.BaseTest  - typing in an Element : postcode_XPATH entered the value as : A34234
+INFO    2022-05-19 09:36:54,507 [main] base.BaseTest  - Clicking on an Element : addcust_XPATH
+INFO    2022-05-19 09:36:54,575 [main] base.BaseTest  - Clicking on an Element : addCustomerBtn_XPATH
+INFO    2022-05-19 09:36:54,638 [main] base.BaseTest  - typing in an Element : firstname_XPATH entered the value as : Cory
+INFO    2022-05-19 09:36:54,761 [main] base.BaseTest  - typing in an Element : lastname_XPATH entered the value as : Paul
+INFO    2022-05-19 09:36:54,852 [main] base.BaseTest  - typing in an Element : postcode_XPATH entered the value as : S3434
+INFO    2022-05-19 09:36:54,910 [main] base.BaseTest  - Clicking on an Element : addcust_XPATH
+INFO    2022-05-19 09:36:55,000 [main] base.BaseTest  - Clicking on an Element : addCustomerBtn_XPATH
+INFO    2022-05-19 09:36:55,087 [main] base.BaseTest  - typing in an Element : firstname_XPATH entered the value as : Aryan
+INFO    2022-05-19 09:36:55,167 [main] base.BaseTest  - typing in an Element : lastname_XPATH entered the value as : Khan
+INFO    2022-05-19 09:36:55,243 [main] base.BaseTest  - typing in an Element : postcode_XPATH entered the value as : S23434
+INFO    2022-05-19 09:36:55,300 [main] base.BaseTest  - Clicking on an Element : addcust_XPATH
+INFO    2022-05-19 09:36:55,451 [main] base.BaseTest  - Clicking on an Element : openaccount_XPATH
+INFO    2022-05-19 09:36:55,785 [main] base.BaseTest  - Selecting an Element : customer_XPATH selected the value as : Shivaji Bajpai
+INFO    2022-05-19 09:36:55,882 [main] base.BaseTest  - Selecting an Element : currency_XPATH selected the value as : Rupee
+INFO    2022-05-19 09:36:55,938 [main] base.BaseTest  - Clicking on an Element : process_XPATH
+INFO    2022-05-19 09:36:56,342 [main] base.BaseTest  - Test Execution completed !!!
